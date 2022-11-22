@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dad-Jokes-App/static/css/main.18fbb837.css",
+    "main.js": "/Dad-Jokes-App/static/js/main.14a0e556.js",
+    "index.html": "/Dad-Jokes-App/index.html",
+    "main.18fbb837.css.map": "/Dad-Jokes-App/static/css/main.18fbb837.css.map",
+    "main.14a0e556.js.map": "/Dad-Jokes-App/static/js/main.14a0e556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18fbb837.css",
+    "static/js/main.14a0e556.js"
+  ]
+}
